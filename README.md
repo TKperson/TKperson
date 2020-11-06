@@ -1,5 +1,5 @@
 ### Hello
-I have nothing to say...
+I have nothing to say... Maybe I will change my github pfp to an anime girl just like other programmers?
 
 ## Operating systems I use
 * MACos (probably the latest version one, ...don't like to use this os tbh I can't even get pyinstaller to work on that os lmaoo)
