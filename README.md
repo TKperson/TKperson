@@ -6,7 +6,7 @@ I have nothing to say... Maybe I will change my github pfp to an anime girl just
 * Linux ubuntu (Any version)
 * Windows (Any version)
 * Raspberry pi (Now I think about it I know nothing about this OS)
-* Redstar OS
+* Redstar OS <- it's litterally linux os
 
 ## Languages
 * Chinese, English... JK
