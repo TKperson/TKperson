@@ -1,6 +1,6 @@
 ### TKperson was here...
 
-<img align="right" alt="a" width="200px" height="300px" src="https://raw.githubusercontent.com/TKperson/TKperson/main/assets/a.png" />
+<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/TKperson/TKperson/main/assets/a.png" />
 
 ```yaml
 userIs: TKperson
@@ -8,7 +8,8 @@ nick: TK
 contact: TKperson#2348
 
 TKperson:
-  - I have nothing to say... Maybe I will change my github pfp to an anime girl just like other programmers?
+  - I have nothing to say... 
+  - Maybe I will change my github pfp to an anime girl just like other programmers?
 CTF: 
   - Reverse Engineering
   - Web CTF
