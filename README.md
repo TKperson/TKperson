@@ -1,4 +1,6 @@
 ## TKperson was here...
+
+<img align="right" alt="a" src="https://raw.githubusercontent.com/TKperson/TKperson/main/assets/a.png">
 ```yaml
 userIs: TKperson
 nick: TK
