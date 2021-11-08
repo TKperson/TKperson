@@ -15,6 +15,9 @@ CTF:
   - Reverse Engineering
   - Web CTF
   - Networking
+Interests:
+  - Ricing
+  - Visual novel/RPG maker games
 ```
 
 <!--
