@@ -1,5 +1,7 @@
 ### TKperson was here...
 
+<img src="https://count.getloli.com/get/@:TKperson" alt=":TKperson" />
+
 <img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/TKperson/TKperson/main/assets/a.png" />
 
 ```yaml
