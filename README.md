@@ -14,10 +14,8 @@ TKperson:
   - I have nothing to say... 
   - Maybe I will change my github pfp to an 
     anime girl just like other programmers?
-CTF: 
-  - Reverse Engineering
-  - Web CTF
-  - Networking
+Programming:
+  - Making OS rn
 Interests:
   - Ricing
   - Visual novel/RPG maker games
