@@ -6,9 +6,9 @@ Visitors:
 <img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/TKperson/TKperson/main/assets/a.png" />
 
 ```yaml
-userIs: TKperson
-nick: TK
-contact: TKperson#2348
+UserIs: TKperson
+Nick: TK
+Contact: TKperson#2348
 
 TKperson:
   - I have nothing to say... 
