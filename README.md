@@ -15,7 +15,7 @@ TKperson:
   - Maybe I will change my github pfp to an 
     anime girl just like other programmers?
 Programming:
-  - Making OS rn
+  - ML'ing
 Interests:
   - Ricing
   - Visual novel/RPG maker games
