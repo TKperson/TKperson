@@ -8,7 +8,7 @@ Visitors:
 ```yaml
 UserIs: TKperson
 Nick: TK
-Contact: TKperson#2348
+Discord: tkpersona
 
 TKperson:
   - I have nothing to say... 
